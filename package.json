@@ -1,0 +1,25 @@
+{
+  "name": "base",
+  "version": "1.0.0",
+  "description": "Default template for fis scaffold",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fis-scaffold/base.git"
+  },
+  "keywords": [
+    "fis",
+    "scaffold"
+  ],
+  "author": "fxl",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/fis-scaffold/base/issues"
+  },
+  "homepage": "https://github.com/fis-scaffold/base",
+  "dependencies": {
+  }
+}
